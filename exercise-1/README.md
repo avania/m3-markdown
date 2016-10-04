@@ -5,3 +5,8 @@ As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should
 Then, in the space below, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote. When you push your changes back up to GitHub, you will see the rendered markdown file.
 
 See `complete` branch for an example.
+>"Everything has its beauty, but not everyone sees it.
+>It does not matter how slowly you go so long as you do not stop.
+>Our greatest glory is not in never falling, but in rising every time we fall."
+
+http://www.confucius.org
